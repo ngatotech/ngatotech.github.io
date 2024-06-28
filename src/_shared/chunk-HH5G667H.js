@@ -1,0 +1,6 @@
+
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:{},n=(new Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="171fe931-4b91-5fad-8a69-d63ba2acd72a")}catch(e){}}();
+import{Y as a,v as r,wa as c,y as p,z as n}from"/catalogo/src/_shared/chunk-C22R5JBJ.js";import{e as s}from"/catalogo/src/_shared/chunk-EMG2WQY5.js";p();c();var o={notFoundContainer:"dFKf8",contentNotProfile:"skPIb",emptyImg:"_2OG1p",searchNoResults:"MAnl1",close:"g8U-W",text:"qyOLa",strong:"jLlPD",notResults:"_1Gzwd",buttonStores:"qZuhM"};var t=s(n()),u=({searchProduct:m})=>{let{t:e}=r(),l=a("PUBLIC_HOST");return(0,t.jsx)("div",{className:o.notFoundContainer,role:"not-found",children:(0,t.jsxs)("div",{className:o.contentNotProfile,children:[(0,t.jsx)("img",{className:o.emptyImg,src:"https://sumerlabs.com/prod/coupon-templates/empty-state-sumer.webp"}),(0,t.jsx)("p",{className:o.notResults,children:e("emptyState.not_results")}),!m&&(0,t.jsx)("a",{className:o.buttonStores,href:`${l}/directorio`,children:e("emptyState.more_stores")})]})})},N=u;export{N as a};
+//# sourceMappingURL=/catalogo/src/_shared/chunk-HH5G667H.js.map
+
+//# debugId=171fe931-4b91-5fad-8a69-d63ba2acd72a
